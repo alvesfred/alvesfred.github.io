@@ -20,16 +20,6 @@ It's the reduced version of a **Curriculum Vitae**, but made as a web page.
 
 Any developer that doesn't have a **Web Curriculum**.
 
-## How it will look like?
-
-I ain't just developed **Dev Curriculum**, I'm also using it as my own Web Curriculum and you can check a demo **[here](http://wendelladriel.github.io)**.
-
-## How to use
-
-#### Step 1 - Fork Dev Curriculum to your User Repository
-
-Fork this repository, then rename the repository to `yourgithubusername.github.io`. Example: `wendelladriel.github.io`.  
-
 At this moment the **Web Curriculum** will often be viewable immediately at http://yourgithubusername.github.io.
 
 #### Step 2 - Customize your Web Curriculum
@@ -41,10 +31,6 @@ To customize your **Web Curriculum** you will change only two files:
 #### Step 3 - Publish your Web Curriculum
 
 After you made the changes, just `commit` and `push` to your repository and your **Web Curriculum** is ready, just go to http://yourgithubusername.github.io and see your new awesome **Web Curriculum**!!!
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/WendellAdriel/dev-curriculum/. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
