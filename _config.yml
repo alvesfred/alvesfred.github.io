@@ -12,13 +12,13 @@ author-title: BackEnd Developer
 email: fredericocerqueiraalves@gmail.com
 #twitter:
 github: alvesfred
-#googleplus: +WendellAdriel
+googleplus: +FredericoCerqueiraAlves 
 #facebook:
 linkedin: fredericocerqueira/en
-bio: "Brazilian developer. Technology lover.
+bio: "Brazilian developer. Technology lover, specially Java/JEE, Spring, Message Broker, Rest Services, and so on!
       I graduated in Computer Science - Software Engineer/Development. I'm a Java Certified. I love to study and learn new skills.
-      I have been working since 2000.
-      I like to work with: Back-End development, but it is not a problem to work as a web developer. I work with many languages, frameworks and technologies."
+      I have been working on IT since 2000.
+      I like to work with: Back-End development, but it is not a problem to work as a web developer, using Ruby, Primefaces, JSF, Javascript. I work with many languages, frameworks and technologies."
 
 # Skills
 #
@@ -34,8 +34,8 @@ bio: "Brazilian developer. Technology lover.
 # If you don't want one of the sections below, leave the variable without any values
 front-end:
   - name: HTML 5
-    level: 3
-  - name: CSS 2
+    level: 2
+  - name: CSS
     level: 2
   - name: JavaScript
     level: 2
@@ -60,7 +60,7 @@ back-end:
   - name: Python
     level: 2
   - name: Java
-    level: 5
+    level: 4
   - name: SQL
     level: 4
 
@@ -72,7 +72,7 @@ mobile:
 
 db:
   - name: MySQL
-    level: 4
+    level: 3
   - name: PostgreSQL
     level: 4
   - name: MongoDB
@@ -92,7 +92,7 @@ devops:
   - name: Jenkins
     level: 3 
   - name: Git
-    level: 5
+    level: 4
   - name: Apache Maven
     level: 4
   - name: Continuous Integration
@@ -110,15 +110,15 @@ methodologies:
 
 others:
   - name: Web Services
-    level: 5
+    level: 4
   - name: REST
-    level: 5
+    level: 4
   - name: JEE, JSF, JPA, EJB, CDI
-    level: 5
+    level: 4
   - name: iReport, Jasper Reports
     level: 4
   - name: Hibernate
-    level: 5
+    level: 4
   - name: Grails
     level: 1
   - name: Laravel, Blade, Eloquent ORM
@@ -126,7 +126,11 @@ others:
   - name: Ruby on Rails
     level: 2
   - name: Spring
-    level:  4
+    level: 4
+  - name: JBoss EAP 6.x, 7.x, TomcatEE and Wildfly 8, 9, 10
+    level: 4
+  - name: RabbitMQ, HornetQ, Kafka, Infinispan
+    level: 4
 
 # Build settings
 
