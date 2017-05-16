@@ -49,6 +49,8 @@ front-end:
     level: 2
   - name: Bower
     level: 2
+  - name: JSP, Struts, Primefaces 4, 5
+    level: 4 
 
 back-end:
   - name: PHP
