@@ -131,6 +131,11 @@ others:
     level: 4
   - name: RabbitMQ, HornetQ, Kafka, Infinispan
     level: 4
+  - name: Jira, BitBucket, GitHub
+    level: 4
+  - name: JBoss Developer, Eclipse, IntelliJ
+    level: 4
+ 
 
 # Build settings
 
