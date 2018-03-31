@@ -15,7 +15,7 @@ github: alvesfred
 googleplus: +FredericoCerqueiraAlves 
 #facebook:
 linkedin: fredericocerqueira/en
-bio: "Brazilian developer. Technology lover, specially Java/JEE, Spring, Message Broker, Rest Services, and so on!
+bio: "Brazilian developer. Technology lover, specially Java/JEE, Spring Boot/Cloud, Message Broker, Rest Services, and so on!
       I graduated in Computer Science - Software Engineer/Development. I'm a Java Certified. I love to study and learn new skills.
       I have been working on IT since 2000.
       I like to work with: Back-End development, but it is not a problem to work as a web developer, using Ruby, Primefaces, JSF, Javascript. I work with many languages, frameworks and technologies."
@@ -58,7 +58,7 @@ back-end:
   - name: Node.js
     level: 2
   - name: Ruby
-    level: 3
+    level: 2
   - name: Python
     level: 2
   - name: Java
@@ -84,7 +84,7 @@ db:
   - name: Oracle
     level: 4
   - name: NoSQL
-    level: 2
+    level: 3
 
 devops:
   - name: Docker
@@ -115,7 +115,7 @@ others:
     level: 4
   - name: REST
     level: 4
-  - name: JEE, JSF, JPA, EJB, CDI
+  - name: JEE, JSF, JPA, EJB, CDI/Weld
     level: 4
   - name: iReport, Jasper Reports
     level: 4
@@ -129,14 +129,18 @@ others:
     level: 2
   - name: Spring
     level: 4
+  - name: Spring Boot
+    level: 4
+  - name: Spring Cloud
+    level: 3
   - name: JBoss EAP 6.x, 7.x, TomcatEE and Wildfly 8, 9, 10
     level: 4
   - name: RabbitMQ, HornetQ, Kafka, Infinispan
-    level: 4
+    level: 3
   - name: Jira, BitBucket, GitHub
     level: 4
   - name: JBoss Developer, Eclipse, IntelliJ
-    level: 4
+    level: 5
  
 
 # Build settings
